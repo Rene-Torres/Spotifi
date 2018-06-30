@@ -1,0 +1,1 @@
+App requires Spotify access token.
